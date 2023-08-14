@@ -42,6 +42,8 @@ npx jest --coverage
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
 
+cdk bootstrap	    
+
 Install CDK first time
 npm install -g aws-cdk          # install latest version
 npm install -g aws-cdk@x.yy.z   # install specific version
